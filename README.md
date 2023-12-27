@@ -1,5 +1,6 @@
 ### Hi there 👋
 I’m currently working on a Bachelors in Computer Science
+I am a novice c++ coder looking to gain experience
 <!--
 **MankeyMusic/MankeyMusic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
